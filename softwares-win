@@ -1,0 +1,33 @@
+
+Cloud - AWS
+
+UserName : 
+Password : 
+
+Download, Install & Configure Python 3.6.0 on Windows
+
+#---------------------------------------#
+1. Python 3.6.0
+
+# wget https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64-webinstall.exe
+
+2. pip10
+
+# curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+# python get-pip.py
+
+3. IDE : pycharm
+https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
+
+4. Text Editors : atom
+https://github.com/atom/atom/releases/download/v1.29.0/atom-x64-windows.zip
+
+
+5. SSH & git tools : gitbash & cmder
+
+gitbash : https://git-scm.com/download/win
+
+cmder   : https://github.com/cmderdev/cmder/releases/download/v1.3.6/cmder.zip
+#---------------------------------------#
+
